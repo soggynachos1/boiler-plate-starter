@@ -1,12 +1,29 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang='en'>
+
+<main>
 
 <head>
-  <meta charset="UTF-8">
-  <title>Nutrition Label</title>
+<meta charset='UTF-8'>
+<title></title>
+<link/>
 </head>
 
 <body>
 
+<h1></h1>
+
+<p></p>
+
+<form>
+<fieldset>
+<label><input></input></label>
+</fieldset>
+
+<fieldset></fieldset>
+<label><input></input></label>
+
+</form>
 </body>
+</main>
 </html>
